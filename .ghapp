@@ -1,0 +1,10 @@
+{
+  "id": 177763913,
+  "created_at": "2026-11-02T09:03:53.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["tokr", "tok-lang-bpm.r-universe.dev"]
+}
