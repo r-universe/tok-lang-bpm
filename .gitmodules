@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/tok-lang-bpm/tok-lang-bpm.r-universe.dev
 	branch = HEAD
+[submodule "tokr"]
+	path = tokr
+	url = https://github.com/tok-lang-bpm/tokr
